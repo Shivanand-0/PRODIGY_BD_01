@@ -1,0 +1,16 @@
+{
+  "name": "prodigy_bd_01",
+  "version": "1.0.0",
+  "description": "Basic CRUD opretion using REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivanand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "uuid": "^11.1.0",
+    "validator": "^13.15.15"
+  }
+}
